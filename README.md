@@ -16,7 +16,7 @@
 ## installation method for iOS and iPadOS
 
 ### JailBreak method
-1. Install Filza from Cydia/Sileo/Saily.
+1. Install Filza from Cydia/Sileo/Saily/Zebra.
 2. Go to folder  /private/var/containers/Bundle/Application/Minecraft(Minecraft preview)/minecraft.app/data/skin_pack/
 3. Replace files in /persona folder
 4. Save and exit
