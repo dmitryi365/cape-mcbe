@@ -5,8 +5,9 @@ networkWorld.current_ping=Пинг:
 menu.copyright=§eBy Dmitryi365§r
 skinpack.cape=§l§s§k1234§r§2 By Dmitryi365 §r§l§s§k1234§r
 dr.classic_skins.right_side.author_name=§6§ka§5§ky§c§ke§r§b By §eDmitryi365 §c§ky§5§ke§6§ka
-deathScreen.message=§gЧто на этот раз скажешь в §4ОПРАВДАНИЕ?
-deathScreen.title=§gЧто на этот раз скажешь в §4ОПРАВДАНИЕ?
+deathScreen.message=§gЧто на этот раз скажешь в §4ОПРАВДАНИЕ?	#
+deathScreen.title=§gЧто на этот раз скажешь в §4ОПРАВДАНИЕ?	#
+menu.store=Хуйня	#
 skin.cape.obeme=Обемэ
 skin.cape.1cape=§3MineCon 2011
 skin.cape.2cape=§3MineCon 2012
@@ -45,3 +46,29 @@ skin.cape.twitch=Плащ <Пурпурное сердце>
 skin.cape.tiktok=Плащ последователя
 skin.cape.mcc=Плащ mcc
 skin.cape.mcczig=Плащ mcc ZIGA
+skin.cape.cape-mc-exp=Minecraft Experience
+skin.cape.ebalo=Ебальник создателя
+skin.cape.hamster=Хамстер комбат
+skin.cape.golds=Позолоченный плащ
+skin.cape.crepergold=Позолоченный крипер плащ
+
+
+можно нахуярить анимации в скин
+https://github.com/ZtechNetwork/MCBVanillaResourcePack/blob/master/animations/player.animation.json
+
+"animations": {
+      "move.arms": "анимка"
+    },
+
+пример
+
+    {
+      "localization_name": "mojang1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape19.png",
+      "animations": {
+      "move.arms": "animation.player.sleeping"
+    },
+      "type": "free"
+    },

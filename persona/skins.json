@@ -134,6 +134,13 @@
       "type": "free"
     },
     {
+      "localization_name": "cape-mc-exp",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape29.png",
+      "type": "free"
+    },
+    {
       "localization_name": "dislike",
       "geometry": "geometry.humanoid.custom",
       "texture": "steve.png",
@@ -180,6 +187,34 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "steve.png",
       "cape": "cape17.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "crepergold",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape32.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "golds",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape33.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hamster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape34.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ebalo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "cape": "cape30.png",
       "type": "free"
     },
     {
